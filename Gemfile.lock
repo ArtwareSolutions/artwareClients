@@ -65,7 +65,6 @@ GEM
     mocha (0.9.12)
     net-ssh (2.1.4)
     nifty-generators (0.4.6)
-    nokogiri (1.4.4)
     polyglot (0.3.1)
     rack (1.2.2)
     rack-mount (0.6.14)
