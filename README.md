@@ -1,6 +1,7 @@
 # Welcome to Artware
 
 Artware is a software to manage your art collection.
+
 [*www.artwaresolutions.org*](http://www.artwaresolutions.org)
 
 == Welcome to Rails
