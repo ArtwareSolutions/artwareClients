@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
+ruby "2.1.0"
 
 gem 'rails', '4.0.3'
 
@@ -29,6 +30,7 @@ gem 'jbuilder', '1.0.2'
 group :production do
   gem 'pg', '0.15.1'
   gem 'rails_12factor', '0.0.2'
+  gem 'newrelic_rpm'
 end
 
 # Use unicorn as the web server
